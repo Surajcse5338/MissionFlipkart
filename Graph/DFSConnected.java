@@ -1,5 +1,5 @@
 import java.util.*;
-public class DFSDisconnected{
+public class DFSConnected{
 	
 	public static void main(String[] args) {
 		int v=5;
