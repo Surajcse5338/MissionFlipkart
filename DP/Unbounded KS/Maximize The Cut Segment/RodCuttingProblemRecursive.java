@@ -1,7 +1,8 @@
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-class RodCuttingProblemRecursive
+class RodCuttingProblemRecursive		// It will have runtime error of time limit exceeded.
+						// So we have to slove this using dynamic programming.
  {
 	public static void main (String[] args)
 	 {
