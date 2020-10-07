@@ -32,3 +32,4 @@ static long count(int S[], int m, int n)
             return count(S,m-1,n);
         }
     } 
+}
